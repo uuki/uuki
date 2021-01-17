@@ -5,8 +5,13 @@ Web Frontend Developer in Japan.
 ## Skills
 
 - Node.js
-- HTML/CSS
+- HTML5/CSS3
+- Sass
 - JavaScript
+- Vue.js
+- Nuxt.js
+- Webpack
+- FireBase
 - AWS
   - EC2, CloudFront, S3, Lambda, API Gateway, Serverless(SAM)
 - Linux
