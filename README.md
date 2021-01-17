@@ -10,6 +10,7 @@ Web Frontend Developer in Japan.
 - JavaScript
 - Vue.js
 - Nuxt.js
+- Gulp
 - Webpack
 - FireBase
 - AWS
