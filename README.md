@@ -5,20 +5,27 @@ Web Frontend Developer in Japan.
 ## Skills
 
 - Node.js
-- HTML5/CSS3
+- HTML5/CSS3 (I prefer FLOCSS pattern for static sites, and loosely coupled and maintainable designs based on Atomic Design for component-based cases.)
 - Sass
 - JavaScript
 - Vue.js
-- Nuxt.js
+- NuxtJs
+- React
 - Gulp
-- Webpack
+- Webpack4, 5
 - FireBase
-- AWS
-  - EC2, CloudFront, S3, Lambda, API Gateway, Serverless(SAM)
 - Linux
-- Ansible
-- Docker
+- AWS (These can be used to build serverless environments, hosting environments, etc.)
+  - Amplify, EC2, CloudFront, S3, Lambda, API Gateway, Serverless(SAM)
+- Docker (Building a simple DB and CMS environment.)
 - GAS
+
+and
+
+- Ansible
+- Vagrant
+
+*I haven't used it much lately.
 
 ## Stats
 
