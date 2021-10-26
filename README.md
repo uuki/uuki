@@ -16,7 +16,13 @@ Web Frontend Developer in Japan.
 - FireBase
 - Linux
 - AWS (These can be used to build serverless environments, hosting environments, etc.)
-  - Amplify, EC2, CloudFront, S3, Lambda, API Gateway, Serverless(SAM)
+  - S3
+  - CloudFront
+  - Amplify
+  - EC2
+  - Lambda
+  - API Gateway
+  - Serverless(SAM)
 - Docker (Building a simple DB and CMS environment.)
 - GAS
 
