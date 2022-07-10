@@ -1,11 +1,9 @@
-# Hi 👋, I'm uuki
-
 Web Frontend Developer in Japan.
 
 ## Skills
 
 - Node.js
-- HTML5/CSS3 (I prefer FLOCSS pattern for static sites, and loosely coupled and maintainable designs based on Atomic Design for component-based cases.)
+- HTML5/CSS3 (For MPA and static sites, we prefer the FLOCSS pattern, while for component-based cases such as SPA, we prefer loosely coupled, highly maintainable designs based on Atomic Design.)
 - Sass
 - JavaScript
 - Vue.js
@@ -15,7 +13,7 @@ Web Frontend Developer in Japan.
 - Webpack4, 5
 - FireBase
 - Linux
-- AWS (These can be used to build serverless environments, hosting environments, etc.)
+- AWS (Mainly capable of building hosting environments for products and serverless architectures)
   - S3
   - CloudFront
   - Amplify
