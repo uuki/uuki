@@ -11,6 +11,8 @@ I have experience from legacy to modern front end.
 - Next.js
 - Vue.js v2.x, v3
 - Nuxt.js
+- Svelte
+- Alpine.js
 - Gulp
 - Webpack v4, v5
 - FireBase
