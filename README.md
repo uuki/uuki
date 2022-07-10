@@ -7,11 +7,12 @@ I have experience from legacy to modern front end.
 - HTML5/CSS3 (For MPA and static sites, it favors the FLOCSS pattern, while for component-based cases such as SPA, it favors loosely coupled, highly maintainable designs based on Atomic Design.)
 - Sass
 - JavaScript
-- Vue.js
-- NuxtJs
 - React
+- Next.js
+- Vue.js v2.x, v3
+- Nuxt.js
 - Gulp
-- Webpack4, 5
+- Webpack v4, v5
 - FireBase
 - Linux
 - AWS (Mainly capable of building hosting environments for products and serverless architectures)
