@@ -1,4 +1,4 @@
-Web Frontend Developer in Japan.
+Web Frontend Developer in Japan.  
 I have experience from legacy to modern front end.
 
 ## Skills
