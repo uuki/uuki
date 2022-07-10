@@ -3,7 +3,7 @@ Web Frontend Developer in Japan.
 ## Skills
 
 - Node.js
-- HTML5/CSS3 (For MPA and static sites, we prefer the FLOCSS pattern, while for component-based cases such as SPA, we prefer loosely coupled, highly maintainable designs based on Atomic Design.)
+- HTML5/CSS3 (For MPA and static sites, it favors the FLOCSS pattern, while for component-based cases such as SPA, it favors loosely coupled, highly maintainable designs based on Atomic Design.)
 - Sass
 - JavaScript
 - Vue.js
