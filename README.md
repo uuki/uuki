@@ -1,6 +1,8 @@
 Web Frontend Developer in Japan.  
 I have experience from legacy to modern front end.
 
+The following is a list of only those that I have experience using in my business.
+
 ## Skills
 
 - Node.js
