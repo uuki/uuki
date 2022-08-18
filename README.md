@@ -6,7 +6,7 @@ The following is a list of only those that I have experience using in my busines
 ## Skills
 
 - Node.js
-- HTML5/CSS3 (For MPA and static sites, it favors the FLOCSS pattern, while for component-based cases such as SPA, it favors loosely coupled, highly maintainable designs based on Atomic Design.)
+- HTML5/CSS3 (Prefer the FLOCSS pattern for MPA and static sites, and loosely coupled, maintainable designs based on Atomic Design for SPA and other component-based designs)
 - Sass
 - JavaScript
 - React
