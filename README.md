@@ -9,7 +9,7 @@ The following is a list of only those that I have experience using in my busines
 - HTML/CSS (Prefer the FLOCSS pattern for MPA and static sites, and loosely coupled, maintainable designs based on Atomic Design for SPA and other component-based designs)
 - Sass
 - JavaScript
-- Astro@1.0~
+- Astro@1.0~, 2.x
 - React@17~
 - Next.js
 - Vue.js v2.x, v3
