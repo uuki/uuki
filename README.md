@@ -45,4 +45,4 @@ and
 
 ![uuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=uuki&count_private=true&show_icons=true&hide=contribs)
 
-[![GitHub Streak](https://github-readme-streak-stats-kgou2ft9i-uukis-projects.vercel.app?user=uuki)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-git-main-uukis-projects.vercel.app/?user=uuki)](https://git.io/streak-stats)
