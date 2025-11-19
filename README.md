@@ -43,6 +43,10 @@ and
 
 ## Stats
 
-![uuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=uuki&count_private=true&show_icons=true&hide=contribs)
+![uuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=uuki&count_private=true&show_icons=true)
+
+![](https://github-profile-trophy.vercel.app/?username=uuki&row=2&column=3)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uuki&layout=compact&hide=php)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uuki&theme=github)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=uuki)](https://git.io/streak-stats)
